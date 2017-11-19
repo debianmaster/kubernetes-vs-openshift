@@ -9,6 +9,6 @@
 | Logging | DIY             | YES        | `Elastic Search, Fluentd, Kibana`|
 | Logs multitenancy | TODO             | YES        | `All logs are user specific`|
 | Metrics | DIY             | YES        | `Hawkular / Prometheus (coming)`|
-| SDN | Options             | Options        | `openvswitch by default`|
+| SDN | Options             | Options,default        | `openvswitch by default`|
 
 ### WIP
