@@ -6,5 +6,6 @@
 | CI/CD | DIY             | YES        | `Jenkinsfile is first class citizen`|
 | UI | Basic             | Advanced        | `k8s UI is not multitenant and basic vs Multitenant Advanced UI`|
 | Routing | DIY             | YES        | `via default HAPROXY Ingress`|
+| Logging | DIY             | YES        | `Elastic Search, Fluentd, Kibana`|
 
 ### WIP
