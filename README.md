@@ -10,5 +10,6 @@
 | Logs multitenancy | TODO             | YES        | `All logs are user specific`|
 | Metrics | DIY             | YES        | `Hawkular / Prometheus (coming)`|
 | SDN | Options             | Options,default        | `openvswitch by default`|
+| Multitenant Registry | DIY             | YES        | `Full Auth/ACL registry`|
 
 ### WIP
