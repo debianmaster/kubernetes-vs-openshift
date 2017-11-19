@@ -1,6 +1,6 @@
 ### WIP
 
-| Feature        | Kubernetes           | openshift  |  Details |
+| Feature        | Kubernetes           | Openshift  |  Details |
 | -------------  |:-------------:       | ----------:|---------:|
 | User object    | DIY                   | YES        | `oc get users` |
 | Default Roles  | DIY                   | YES        | `admin/edit/view system:imagepuller etc` |
