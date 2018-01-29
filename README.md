@@ -6,6 +6,7 @@
 | User Role Management| DIY yamls            | YES        | `oc adm policy add-role-to-user admin joe -n dev`|
 | CI/CD | DIY             | YES        | `Jenkinsfile is first class citizen`|
 | UI | Very Basic             | Advanced        | `k8s UI is not multitenant and basic vs Multitenant Advanced UI`|
+| Registry UI | No UI         | Advanced        | `ACL Registry UI`|
 | Routing | DIY             | YES        | `via default HAPROXY Ingress`|
 | Logging | DIY             | YES        | `Elastic Search, Fluentd, Kibana`|
 | Security | DIY | YES  | `selinux, scc, builds are optimized for security` |
