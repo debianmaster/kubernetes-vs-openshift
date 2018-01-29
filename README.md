@@ -8,6 +8,7 @@
 | UI | Very Basic             | Advanced        | `k8s UI is not multitenant and basic vs Multitenant Advanced UI`|
 | Routing | DIY             | YES        | `via default HAPROXY Ingress`|
 | Logging | DIY             | YES        | `Elastic Search, Fluentd, Kibana`|
+| Security | DIY | YES  | `selinux, scc, builds are optimized for security` |
 | Logs multitenancy | TODO             | YES        | `All logs are user specific`|
 | Metrics | DIY             | YES        | `Hawkular / Prometheus (coming)`|
 | SDN | Options             | Options,default        | `openvswitch by default`|
