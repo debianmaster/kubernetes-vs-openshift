@@ -4,7 +4,7 @@
 | User object    | DIY                   | YES        | `oc get users` |
 | User Role Management| DIY             | YES        | `oc adm policy add-role-to-user admin joe -n dev`|
 | CI/CD | DIY             | YES        | `Jenkinsfile is first class citizen`|
-| UI | Basic             | Advanced        | `k8s UI is not multitenant and basic vs Multitenant Advanced UI`|
+| UI | Very Basic             | Advanced        | `k8s UI is not multitenant and basic vs Multitenant Advanced UI`|
 | Routing | DIY             | YES        | `via default HAPROXY Ingress`|
 | Logging | DIY             | YES        | `Elastic Search, Fluentd, Kibana`|
 | Logs multitenancy | TODO             | YES        | `All logs are user specific`|
