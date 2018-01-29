@@ -12,6 +12,7 @@
 | SDN | Options             | Options,default        | `openvswitch by default`|
 | Multitenant Registry | DIY             | YES        | `Full Auth/ACL registry`|
 | Default Roles  | Basic                   | YES        | `fine grained & frequently used` |
-| Service Broker | Community | YES  | `supported solution` |
+| Ansible Service Broker | Community | YES  | `supported solution` |
+| AWS Service Broker | Community | YES  | `supported solution` |
 
 
