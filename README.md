@@ -15,6 +15,7 @@
 | Default Roles  | Basic                   | YES        | `fine grained & frequently used` |
 | Ansible Service Broker | Community | YES  | `supported solution` |
 | AWS Service Broker | Community | YES  | `supported solution` |
+| Container Native Storage | Community | YES  | `supported with Gluster File/Block/Object storage` |
 | Supported Runtimes | Community | YES  | `Support for various language runtimes via RHOAR` |
 | Istio | Community | Community  | `Potential support in future` |
 
