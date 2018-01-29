@@ -16,5 +16,6 @@
 | Ansible Service Broker | Community | YES  | `supported solution` |
 | AWS Service Broker | Community | YES  | `supported solution` |
 | Supported Runtimes | Community | YES  | `Support for various language runtimes via RHOAR` |
+| Istio | Community | Community  | `Potential support in future` |
 
 
