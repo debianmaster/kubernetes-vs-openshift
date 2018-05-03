@@ -21,5 +21,5 @@
 | Supported Runtimes | Community | YES  | `Support for various language runtimes via RHOAR` |
 | Istio | Community | Community  | `Coming soon` |
 | Istio ops UI | Community | Future native integration  | `https://github.com/kiali` |
-
+| Move manifest between k8s clusters | DIY | Ocp jenkins DSL supports moving k8s manifest between clusters  | `refer ocp jenkins dsl` |
 
