@@ -2,6 +2,7 @@
 | Feature        | Kubernetes           | Openshift  |  Details |
 | -------------  |:-------------:       | ----------:|---------:|
 | OS support     | DIY  |  YES | Atomic host or RHEL |
+| Automatic subddomain for apps | DIY | YES  | `out of the box each apps gets a subdomain` |
 | User object    | DIY                   | YES        | `oc get users` |
 | User Role Management| DIY yamls            | YES        | `oc adm policy add-role-to-user admin joe -n dev`|
 | CI/CD | DIY             | YES        | `Jenkinsfile is first class citizen`|
