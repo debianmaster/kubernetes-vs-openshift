@@ -1,4 +1,6 @@
 ### WIP
+> This list tends towards openshift ,  do your own research.
+
 | Feature        | Kubernetes           | Openshift  |  Details |
 | -------------  |:-------------:       | ----------:|---------:|
 | OS support     | DIY  |  YES | Atomic host or RHEL |
