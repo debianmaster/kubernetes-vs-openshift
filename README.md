@@ -30,3 +30,4 @@
 | Manifest files generation | --dryn-run for each k8s object |  --dryn-run for `oc new-app` will generate all required manifest files| |
 | Kaka support | DIY | watch for http://strimzi.io/ | |
 | Build Tooling | DIY  differs with each xKS provider | One build tools (s2i/jenkins)  across all clusters | |
+| default node scheduler for namespace| DIY | OOB |  A project (namesapce in k8s) can have a default nodeSelector assigned so workloads be segregated based on who is creating them| 
