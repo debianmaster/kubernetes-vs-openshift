@@ -29,3 +29,4 @@
 | Upgrades | DIY | Playbooks  | `Running uprade playbook.  multiple options like automated inplace upgrade,  A/B platform upgrade` |
 | Manifest files generation | --dryn-run for each k8s object |  --dryn-run for `oc new-app` will generate all required manifest files| |
 | Kaka support | DIY | watch for http://strimzi.io/ | |
+| Build Tooling | DIY  differs with each xKS provider | One build tools (s2i/jenkins)  across all clusters | |
