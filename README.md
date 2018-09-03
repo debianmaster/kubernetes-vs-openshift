@@ -26,7 +26,7 @@
 | Istio ops UI | Community | Future native integration  | `https://github.com/kiali` |
 | Move manifest between k8s clusters | DIY | Ocp jenkins DSL supports moving k8s manifest between clusters  | `refer ocp jenkins dsl` |
 | BIG data | Community | Community, but native integration for UI | `https://radanalytics.io/` |
-| Upgrades | DIY | Playbooks  | `Running uprade playbook.  multiple options like automated inplace upgrade,  A/B platform upgrade` |
+| Install/Upgrades | DIY | Playbooks  | `Running uprade playbook.  multiple options like automated inplace upgrade,  A/B platform upgrade` |
 | Manifest files generation | --dryn-run for each k8s object |  --dryn-run for `oc new-app` will generate all required manifest files| |
 | Kaka support | DIY | watch for http://strimzi.io/ | |
 | Build Tooling | DIY  differs with each xKS provider | One build tools (s2i/jenkins)  across all clusters | |
